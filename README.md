@@ -4,7 +4,7 @@ Simple program to collect serial data for ScanVaegt systems
 
 ## Getting Started
 
-Download these files, create a '''cred.py''' file that includes username, password and servername for the SQL server.
+Download these files, create a ''' cred.py ''' file that includes username, password and servername for the SQL server.
 
 ### Prerequisites
 
